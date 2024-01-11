@@ -16,7 +16,7 @@ console.log(mydata["age"]);
 
 console.log(mydata.salary);
 console.log(mydata.grade);
-console.log(mydatay);
+console.log(mydata);
 
 
 //getting data with using loop
@@ -48,4 +48,22 @@ console.log(false || false);
 
 //and operator
 
+// INCREMENT
 
+ let q = 70;
+q+=10;
+ console.log(q);
+//post increment
+console.log(q+1);  // q= q+1 70+1 => 71
+console.log(q);    //71
+
+//pre increment
+console.log(++q);   // ++q 71 +1
+
+
+//descrement
+let e = 50;
+console.log(e);  // q= e-1 50-1 => 49
+console.log(e-1)   //49
+
+console.log(--e);
