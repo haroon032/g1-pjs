@@ -1,3 +1,5 @@
+     //9-jan-2024, Tuesday
+
 let mydata = {
     name : "peter",
     city :"Karachi",
